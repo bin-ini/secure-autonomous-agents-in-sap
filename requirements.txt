@@ -1,0 +1,7 @@
+# Runtime dependencies for the SAP testbed.
+# Only the figures need a third-party package; every experiment and every
+# consistency check runs on the standard library alone.
+#
+# Python 3.10 or newer is required (the sources use PEP 604 `X | None` and
+# built-in generic types such as `list[str]`).
+matplotlib>=3.6

@@ -1,0 +1,35 @@
+{
+  "title": "Secure Autonomous Agents in SAP Systems: A Control-Property Review Evaluated on a Reconstructed SAP FI Authorization Model",
+  "upload_type": "publication",
+  "publication_type": "workingpaper",
+  "version": "1.0",
+  "language": "eng",
+  "access_right": "open",
+  "license": "CC-BY-4.0",
+  "creators": [
+    {
+      "name": "Priyadarshini, Bindiya",
+      "orcid": "0009-0005-7559-3896"
+    },
+    {
+      "name": "Pankraz, Martin",
+      "orcid": "0009-0008-1567-4223"
+    }
+  ],
+  "keywords": [
+    "enterprise resource planning",
+    "SAP",
+    "autonomous agents",
+    "agentic AI",
+    "access control",
+    "authorisation",
+    "separation of duties",
+    "aggregation problem",
+    "usage control",
+    "audit and attribution",
+    "security evaluation",
+    "pre-registration"
+  ],
+  "description": "<p>Autonomous agents are being given authority to act inside enterprise resource planning systems, whose authorisation models were built for human operators. This study asks one narrow question &mdash; for a named control and a named property, can that control decide that property at all? &mdash; and answers it with a diagnostic instrument, the <strong>Control-Property Review</strong>, and pre-registered experiments against a reconstructed SAP FI authorization surface.</p><p>The central idea: autonomous execution does not <em>create</em> these gaps; it reveals where local compliance has been standing in for global assurance. Every figure and number in the paper is generated from the code, and the build refuses to compile if the prose and the evidence disagree.</p><p><strong>Version 1.0 &mdash; a complete independent study, with the external validation it still needs stated openly rather than buried.</strong> This deposit contains the paper and the complete, reproducible testbed.</p><p><em>No customer, proprietary or vendor-licensed material appears anywhere in this work; every scenario is synthetic. Paper text is licensed CC BY 4.0; the accompanying code is MIT.</em></p>",
+  "doi": "10.5281/zenodo.22747364"
+}

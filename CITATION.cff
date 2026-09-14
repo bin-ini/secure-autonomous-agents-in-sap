@@ -1,0 +1,38 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite it as below."
+title: "Secure Autonomous Agents in SAP Systems: A Control-Property Review Evaluated on a Reconstructed SAP FI Authorization Model"
+abstract: >-
+  A diagnostic instrument, the Control-Property Review, applied to autonomous
+  AI agents acting inside a reconstructed SAP FI authorization surface. For a
+  named control and a named property, it asks whether that control can decide
+  the property at all, and answers with pre-registered experiments whose every
+  figure and number is generated from the code. Version 1.0, an independent
+  study with its external validation stated openly.
+type: software
+version: "1.0"
+date-released: "2026-09-14"
+license: CC-BY-4.0
+authors:
+  - family-names: Priyadarshini
+    given-names: Bindiya
+    orcid: "https://orcid.org/0009-0005-7559-3896"
+  - family-names: Pankraz
+    given-names: Martin
+    orcid: "https://orcid.org/0009-0008-1567-4223"
+keywords:
+  - enterprise resource planning
+  - SAP
+  - autonomous agents
+  - agentic AI
+  - access control
+  - authorisation
+  - separation of duties
+  - aggregation problem
+  - usage control
+  - audit and attribution
+  - security evaluation
+  - pre-registration
+# repository-code and url: replace bin-ini with your GitHub account if different
+repository-code: "https://github.com/bin-ini/secure-autonomous-agents-in-sap"
+url: "https://github.com/bin-ini/secure-autonomous-agents-in-sap"
+doi: "10.5281/zenodo.22747364"
