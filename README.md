@@ -10,6 +10,8 @@
 
 ---
 
+Dedicated to PS
+
 Enterprises are beginning to let AI agents *act* inside their ERP — post the
 credit memo, change the vendor's bank detail, release the transport into
 production — rather than merely suggest that a person do it. Almost every one of
